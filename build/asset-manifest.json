@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projects/tourist_guide/static/css/main.a18a73ac.css",
+    "main.js": "/projects/tourist_guide/static/js/main.3c0269d0.js",
+    "static/media/hotelss.gif": "/projects/tourist_guide/static/media/hotelss.77621faa659b5d5914d3.gif",
+    "static/media/customer.gif": "/projects/tourist_guide/static/media/customer.e9a22ca64c06e760fce3.gif",
+    "static/media/Agency.gif": "/projects/tourist_guide/static/media/Agency.6e01b792a68526025b29.gif",
+    "static/media/pic9.jpg": "/projects/tourist_guide/static/media/pic9.594244e57b28c0d75f1b.jpg",
+    "static/media/restaurant.gif": "/projects/tourist_guide/static/media/restaurant.6c45cc2e111a9b44de67.gif",
+    "static/media/pic1.jpg": "/projects/tourist_guide/static/media/pic1.fcd7449dc5181db1c891.jpg",
+    "static/media/pic6.webp": "/projects/tourist_guide/static/media/pic6.d2376618150a2a26ebf3.webp",
+    "static/media/frontimg.webp": "/projects/tourist_guide/static/media/frontimg.cdd119c0be6d49f8dcc1.webp",
+    "static/media/pic3.jpg": "/projects/tourist_guide/static/media/pic3.f91cd4cace9fa573a76f.jpg",
+    "static/media/pic3.webp": "/projects/tourist_guide/static/media/pic3.e4cc924d0bfbe2d44061.webp",
+    "static/media/pic4.webp": "/projects/tourist_guide/static/media/pic4.cb7f49c53795d8210c8a.webp",
+    "static/media/logo.jpg": "/projects/tourist_guide/static/media/logo.7d7ad8b52b28c2349975.jpg",
+    "static/media/user (1).png": "/projects/tourist_guide/static/media/user (1).15d331170165ff52cd80.png",
+    "index.html": "/projects/tourist_guide/index.html",
+    "main.a18a73ac.css.map": "/projects/tourist_guide/static/css/main.a18a73ac.css.map",
+    "main.3c0269d0.js.map": "/projects/tourist_guide/static/js/main.3c0269d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18a73ac.css",
+    "static/js/main.3c0269d0.js"
+  ]
+}
